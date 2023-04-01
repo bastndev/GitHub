@@ -1,10 +1,10 @@
-<p align="center"><a href="https://www.instagram.com/bastndev/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/IMG/mee.png" /></a></p>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="/IMG/mee.png" /></a></p>
 
 
 <br />
 
 
-**About me**
+**About me 👽**
 
 I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
@@ -19,9 +19,7 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
 ## Hey, this is us 👋
 
-<img src="/IMG/on1.png" />
-
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://github.com/bastndev/GitHub/blob/main/IMG/on1.png)
 
 <!--Social Media-->  
 <div align="center"> 
