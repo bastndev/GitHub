@@ -7,7 +7,7 @@
 
 I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
-- 💼 Mobile app developer  [[■■■□□□□□□□] 30%](https://www.tiktok.com/@bastndev)
+- 💼 Mobile app developer  [[■■■■□□□□□□] 40%](https://www.tiktok.com/@bastndev)
 
 - 📈 Built github-readme-stats, verlyjs and more, **10k+** hits • **111** stars on GitHub
 
