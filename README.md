@@ -37,7 +37,7 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
 ---
 
-<sub>🤫 If you want to see more projects  [👉HERE](https://github.com/bastndev).</sub>
+<sub>🤫@bastndev practice with me.  [👉HERE](https://github.com/bastndev/GitHub/tree/main/Practice).</sub>
 
 <!--
 Made with 🖤
