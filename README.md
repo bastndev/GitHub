@@ -31,13 +31,15 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
  <details> 
 	<br>
 	<ul>
-	<li>Thank you so much!!! 💛</>
+	
+	>- @bastndev practice with me.  [👉HERE](https://github.com/bastndev/GitHub/tree/main/Practice).
+
 	</ul>
 </details>
 
 ---
 
-<sub>🤫@bastndev practice with me.  [👉HERE](https://github.com/bastndev/GitHub/tree/main/Practice).</sub>
+<sub>🤫 If you want to see more projects  [👉HERE](https://github.com/bastndev).</sub>
 
 <!--
 Made with 🖤
