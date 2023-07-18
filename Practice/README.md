@@ -25,4 +25,12 @@
 	
     >- $ `git checkout -b feature-restructure`
   </details>
+  <!-- -- -- - -- - --  Git5 -- - - - -- - - - - - -->
+- **Git** branch Delete Swap View
+  <details>
+	
+    >- $ `git branch -d <name1>`
+    >- $ `git branch -m <name1> <name1>`
+    >- $ `git diff <rama1> <rama2>`
+  </details>
 
