@@ -37,6 +37,6 @@
 - **Git** merge
   <details>
 	
-    >- $ `git merge <rama1> <rama2>`
+    >- $ `git merge <main> <feature>`
   </details>
 
