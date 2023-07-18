@@ -13,9 +13,16 @@
 	
     >- $ `git reset --hard <id>`
   </details>
-<!-- -- -- - -- - --  pupusas -- - - - -- - - - - - -->
+<!-- -- -- - -- - --  Git3 -- - - - -- - - - - - -->
 - **Git** commit swap
   <details>
 	
     >- $ `git commit --amend -m "New commit message"`
   </details>
+  <!-- -- -- - -- - --  Git4 -- - - - -- - - - - - -->
+- **Git** New branch
+  <details>
+	
+    >- $ `git checkout -b feature-restructure`
+  </details>
+
