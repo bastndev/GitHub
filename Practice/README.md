@@ -33,4 +33,10 @@
     >- $ `git branch -m <name1> <name1>`
     >- $ `git diff <rama1> <rama2>`
   </details>
+  <!-- -- -- - -- - --  Git6 -- - - - -- - - - - - -->
+- **Git** merge
+  <details>
+	
+    >- $ `git merge <rama1> <rama2>`
+  </details>
 
