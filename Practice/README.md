@@ -13,4 +13,9 @@
 	
     >- $ `git reset --hard <id>`
   </details>
-<!-- -- -- - -- - --  pupusa -- - - - -- - - - - - -->
+<!-- -- -- - -- - --  pupusas -- - - - -- - - - - - -->
+- **Git** commit swap
+  <details>
+	
+    >- $ `git commit --amend -m "New commit message"`
+  </details>
