@@ -19,3 +19,11 @@
 	
     >- $ `git commit --amend -m "New commit message"`
   </details>
+  <!-- -- -- - -- - --  pupusas -- - - - -- - - - - - -->
+- **Git** diff compare branch
+  <details>
+	
+    >- $ `git diff main/ feature,  feature/main`
+    >- $ `git branch -m feature-restructure feature`
+  </details>
+
