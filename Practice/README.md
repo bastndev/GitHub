@@ -38,5 +38,5 @@
   <details>
 	
     >- $ `git merge <main> <feature>`
-  </details>
+  </details> 
 
