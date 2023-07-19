@@ -39,4 +39,10 @@
 	
     >- $ `git merge <main> <feature>`
   </details> 
+  <!-- -- -- - -- - --  Git7 -- - - - -- - - - - - -->
+- **Git** pull
+  <details>
+	
+    >- $ `git pull `
+  </details> 
 
