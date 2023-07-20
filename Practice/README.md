@@ -46,10 +46,17 @@
     >- $ `git pull `
   </details> 
   <!-- -- -- - -- - --  GitHub -- - - - -- - - - - - -->
-- **GitHub** Clone/remote 
+- **GitHub** Clone
   <details>
 	
     >- $ `git clone <url> git-< name >`
-    >- $ `git remote get-url origin <url>`
+  </details> 
+  <!-- -- -- - -- - --  GitHub  Enlasar un proyecto con otra cuenta 
+  Ejemplo tu clonnas un repositorio de otro pero creas una nueva rama desde vscode con tu Smurd o cuenta secundaria
+  -- - - - -- - - - - - -->
+- **GitHub** remote 
+  <details>
+
+    >- $ `git remote get-url origin <url>` 
   </details> 
 
