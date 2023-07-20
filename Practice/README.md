@@ -57,6 +57,6 @@
 - **GitHub** remote 
   <details>
 
-    >- $ `git remote get-url origin <url>` 
+    >- $ `git remote get-url origin <@smurfDev51? url>` 
   </details> 
 
