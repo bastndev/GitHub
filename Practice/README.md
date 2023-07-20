@@ -45,4 +45,11 @@
 	
     >- $ `git pull `
   </details> 
+  <!-- -- -- - -- - --  GitHub -- - - - -- - - - - - -->
+- **GitHub** Clone/remote 
+  <details>
+	
+    >- $ `git clone <url>`
+    >- $ `git remote get-url origin <url>`
+  </details> 
 
