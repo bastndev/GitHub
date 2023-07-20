@@ -49,7 +49,7 @@
 - **GitHub** Clone/remote 
   <details>
 	
-    >- $ `git clone <url>`
+    >- $ `git clone <url> git-< name >`
     >- $ `git remote get-url origin <url>`
   </details> 
 
