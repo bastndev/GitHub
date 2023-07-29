@@ -59,4 +59,3 @@
 
     >- $ `git remote get-url origin <@smurfDev51? url>` 
   </details> 
-  <!-- Panplona -->
