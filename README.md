@@ -42,3 +42,8 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 Made with 🖤
 🙇‍♂️🎤⬇️
 -->
+
+<!-- --- --- --- --- -- --- -- - --- -- -- snake --- -- -- -- - -- - - -- - -- - - - -->
+<div>
+    <img src="/IMG/sneak.svg" alt="">
+</div>
