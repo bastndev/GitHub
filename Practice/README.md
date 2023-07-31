@@ -20,12 +20,24 @@
     >- $ `git commit --amend -m "New commit message"`
   </details>
   <!-- -- -- - -- - --  Git4 -- - - - -- - - - - - -->
-- **Git** New branch
+- **Git** New branch ✅
   <details>
 	
     >- $ `git checkout -b feature-restructure`
+
+    >- $ `git checkout -b show`
+    >- $ `git push --set-upstream origin show`
+
+    >- $ `git checkout -b ask`
+    >- $ `git push --set-upstream origin ask`
   </details>
   <!-- -- -- - -- - --  Git5 -- - - - -- - - - - - -->
+- **Git** merge ✅✅
+  <details>
+	
+    >- $ `git merge <main> <feature>`
+  </details> 
+  <!-- -- -- - -- - --  Git7 -- - - - -- - - - - - -->
 - **Git** branch Delete Swap View
   <details>
 	
@@ -34,12 +46,6 @@
     >- $ `git diff <rama1> <rama2>`
   </details>
   <!-- -- -- - -- - --  Git6 -- - - - -- - - - - - -->
-- **Git** merge
-  <details>
-	
-    >- $ `git merge <main> <feature>`
-  </details> 
-  <!-- -- -- - -- - --  Git7 -- - - - -- - - - - - -->
 - **Git** pull
   <details>
 	
