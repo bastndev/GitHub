@@ -40,9 +40,9 @@
   <!-- -- -- - -- - --  Git5.1 -- - - - -- - - - - - -->
 - **Git** Merge ✅
   <details>
-  
+
     >- parate en la rama `main`
-    >- $ `git merge <rama 1> <master>`
+    >- $ `git merge <rama 1> <main>`
   </details> 
   <!-- -- -- - -- - --  Git7 -- - - - -- - - - - - -->
 - **Git** branch Delete Swap View
