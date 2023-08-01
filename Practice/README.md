@@ -20,7 +20,7 @@
     >- $ `git commit --amend -m "New commit message"`
   </details>
   <!-- -- -- - -- - --  Git4 -- - - - -- - - - - - -->
-- **Git** New branch ✅
+- **Git** New branch 🌻
   <details>
 	
     >- $ `git checkout -b feature-restructure`
@@ -31,11 +31,17 @@
     >- $ `git checkout -b ask`
     >- $ `git push --set-upstream origin ask`
   </details>
-  <!-- -- -- - -- - --  Git5 -- - - - -- - - - - - -->
-- **Git** merge ✅✅
+  <!-- -- -- - -- - --  Git5.0 -- - - - -- - - - - - -->
+- **Git** Diff 👁️
   <details>
 	
-    >- $ `git merge <main> <feature>`
+    >- $ `git diff <main> <rama 1>`
+  </details> 
+  <!-- -- -- - -- - --  Git5.1 -- - - - -- - - - - - -->
+- **Git** Merge ✅
+  <details>
+    >- parate en la rama `main`
+    >- $ `git merge <rama 1> <master>`
   </details> 
   <!-- -- -- - -- - --  Git7 -- - - - -- - - - - - -->
 - **Git** branch Delete Swap View
