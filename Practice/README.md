@@ -40,6 +40,7 @@
   <!-- -- -- - -- - --  Git5.1 -- - - - -- - - - - - -->
 - **Git** Merge ✅
   <details>
+  
     >- parate en la rama `main`
     >- $ `git merge <rama 1> <master>`
   </details> 
