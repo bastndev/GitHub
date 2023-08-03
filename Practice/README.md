@@ -20,7 +20,7 @@
     >- $ `git commit --amend -m "New commit message"`
   </details>
   <!-- -- -- - -- - --  Git4 -- - - - -- - - - - - -->
-- **Git** New branch 🌻
+- **Git** 🌻 New branch 
   <details>
 	
     >- $ `git checkout -b feature-restructure`
@@ -32,13 +32,13 @@
     >- $ `git push --set-upstream origin ask`
   </details>
   <!-- -- -- - -- - --  Git5.0 -- - - - -- - - - - - -->
-- **Git** Diff 👁️
+- **Git** 👁️ Diff 
   <details>
 	
     >- $ `git diff <main> <rama 1>`
   </details> 
   <!-- -- -- - -- - --  Git5.1 -- - - - -- - - - - - -->
-- **Git** Merge ✅
+- **Git** ✅ Merge 
   <details>
 
     >- parate en la rama `main`
